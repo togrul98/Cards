@@ -1,0 +1,99 @@
+.Card1 {
+    border: 1px solid ;
+    border-radius:  10px;
+    height: 320px;
+    width: 220px;
+}
+body h3{
+    margin-left: 65px;
+ }
+
+ .Capital {
+    display: flex;
+    gap: 50px;
+    margin: 120px;
+    margin-left: 400px;
+    flex-direction: row;
+    align-items: center;
+   
+ }
+ body h1 {
+    align-items: center;
+ }
+
+ body p {
+    color: grey;
+    text-align: center;
+}
+
+body button{
+    margin-left: 45px;
+    border: 1px solid;
+    border-radius: 25px  ;
+    color: white;
+    background-color: orange;
+    width: 130px;
+    height: 40px;
+}
+
+.Card2 {
+    border: 1px solid ;
+    border-radius:  10px;
+    height: 320px;
+    width: 220px;
+}
+
+body h3{
+    align-items: center;
+    
+ }
+
+ body h1 {
+    align-items: center;
+    margin-left: 2px;
+ }
+
+ body p {
+    color: grey;
+    text-align: center;
+}
+
+body button{
+    margin-left: 45px;
+    border: 1px solid;
+    border-radius: 25px  ;
+    color: white;
+    background-color: orange;
+    width: 130px;
+    height: 40px;
+}
+
+.Card3 {
+    border: 1px solid ;
+    border-radius:  10px;
+    height: 320px;
+    width: 220px;
+}
+body h3{
+    margin-left: 65px;
+ }
+
+ body h1 {
+    margin-left: 50px;
+ }
+
+ body p {
+    color: grey;
+    text-align: center;
+}
+
+body button{
+    margin-left: 45px;
+    border: 1px solid;
+    border-radius: 25px  ;
+    color: white;
+    background-color: orange;
+    width: 130px;
+    height: 40px;
+}
+
